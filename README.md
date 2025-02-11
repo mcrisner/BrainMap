@@ -7,7 +7,7 @@ Automates generation of combined 2D/3D brain models with statistical heatmap ove
 [MRIcroGL](https://www.nitrc.org/projects/mricrogl) is an excellent program for visualizing brain imaging data. However, creating numerous figures manually can be time-consuming and inconsistent. This automation tool streamlines the figure creation process, enhancing efficiency and ensuring uniformity in your work.
 
 
-# Prequisites
+# Prerequisites
 
 - [MRIcroGL](https://www.nitrc.org/projects/mricrogl) installed on your system.
 - Basic understanding of MRIcroGL navigation and export functions.
