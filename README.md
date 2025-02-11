@@ -1,5 +1,5 @@
 # BrainMap
-Automates generation of combined 2D/3D brain models for research figures with statistical heatmap overlays from MRI data.
+Automates generation of combined 2D/3D brain models with statistical heatmap overlays from MRI data.
 
 
 # Overview
